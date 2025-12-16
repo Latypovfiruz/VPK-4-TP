@@ -26,6 +26,7 @@
 # Роли пользователей
 
 # Контекст 
+<img width="604" height="316" alt="Снимок экрана 2025-12-16 в 20 10 30" src="https://github.com/user-attachments/assets/50eb827d-b1c2-4073-ae2a-8604b72e81c3" />
 
 # Сценарий миссии
 
