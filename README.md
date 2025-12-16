@@ -49,3 +49,5 @@
 
 
 # Высокоуровневая архитектура
+<img width="693" height="473" alt="Снимок экрана 2025-12-16 в 20 11 29" src="https://github.com/user-attachments/assets/d1098e4e-e978-41d0-8d2d-26d2ed986912" />
+
