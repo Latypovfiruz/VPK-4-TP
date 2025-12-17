@@ -58,7 +58,14 @@
 1. Полетное задание и маршрут остаются безопасными на весь период полета.
 
 # Негативные сценарии 
+## Негативный сценарий №1
+<img width="949" height="407" alt="Негативный сценарий 1" src="https://github.com/user-attachments/assets/c7678ac6-20db-4b12-8154-dbcaf0565aa4" />
 
+## Негативный сценарий №2
+<img width="1543" height="665" alt="негатив 2" src="https://github.com/user-attachments/assets/92313f86-cb46-4de4-a1fa-0d821a5a22ea" />
+
+## Негативный сценарий №3
+<img width="902" height="436" alt="Негатив 3" src="https://github.com/user-attachments/assets/5834536f-65cd-468d-ba17-e73707dbf9bf" />
 
 # Высокоуровневая архитектура
 <img width="693" height="473" alt="Снимок экрана 2025-12-16 в 20 11 29" src="https://github.com/user-attachments/assets/d1098e4e-e978-41d0-8d2d-26d2ed986912" />
