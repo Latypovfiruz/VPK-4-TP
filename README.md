@@ -28,6 +28,7 @@
 <img width="604" height="316" alt="Снимок экрана 2025-12-16 в 20 10 30" src="https://github.com/user-attachments/assets/50eb827d-b1c2-4073-ae2a-8604b72e81c3" />
 
 # Сценарий миссии
+<img width="1360" height="1000" alt="сценарий миссии" src="https://github.com/user-attachments/assets/cdacb543-e5a2-4119-b50a-3e85e53b51d9" />
 
 
 # Архитектура 
