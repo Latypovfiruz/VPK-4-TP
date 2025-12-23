@@ -40,7 +40,7 @@
 
 
 # Архитектура 
-<img width="553" height="388" alt="Снимок экрана 2025-12-17 в 14 40 21" src="https://github.com/user-attachments/assets/9f9531ba-97bd-44e7-8b14-9f37f84256ee" />
+<img width="658" height="499" alt="Снимок экрана 2025-12-23 в 21 53 03" src="https://github.com/user-attachments/assets/be50f464-1741-4c5c-8000-b46dea2e4ee0" />
 
 
 | Компонент        | Описание |
