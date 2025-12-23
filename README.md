@@ -72,7 +72,6 @@
 <img width="902" height="436" alt="Негатив 3" src="https://github.com/user-attachments/assets/5834536f-65cd-468d-ba17-e73707dbf9bf" />
 
 # Высокоуровневая архитектура
-<img width="693" height="473" alt="Снимок экрана 2025-12-16 в 20 11 29" src="https://github.com/user-attachments/assets/d1098e4e-e978-41d0-8d2d-26d2ed986912" />
 
 <img width="681" height="522" alt="Снимок экрана 2025-12-23 в 21 56 26" src="https://github.com/user-attachments/assets/cbdf0bb7-6384-4de7-a3fc-752b509965f7" />
 
