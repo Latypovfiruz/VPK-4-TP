@@ -72,8 +72,8 @@
 <img width="902" height="436" alt="Негатив 3" src="https://github.com/user-attachments/assets/5834536f-65cd-468d-ba17-e73707dbf9bf" />
 
 # Высокоуровневая архитектура
+<img width="940" height="616" alt="Снимок экрана 2025-12-24 в 17 35 16" src="https://github.com/user-attachments/assets/4e719a9b-2572-4d9b-b954-f52fbb89ed13" />
 
-<img width="681" height="522" alt="Снимок экрана 2025-12-23 в 21 56 26" src="https://github.com/user-attachments/assets/cbdf0bb7-6384-4de7-a3fc-752b509965f7" />
 
 
 Ниже представлен анализ ключевых компонентов системы дрона с указанием уровня доверия, сложности и обоснования влияния на миссию.
